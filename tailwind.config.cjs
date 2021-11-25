@@ -1,4 +1,4 @@
-import { carbon } from './carbon-theme.js';
+const carbon = require('./carbon-theme.cjs');
 
 const config = {
 	mode: 'jit',
